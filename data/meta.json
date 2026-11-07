@@ -1,0 +1,18 @@
+{
+  "attempts": 33329,
+  "fetchedAt": "2026-11-07T15:20:47+00:00",
+  "format": 1,
+  "missing": 3,
+  "packages": 34555,
+  "parser": 5,
+  "pending": 24,
+  "queue": {
+    "cycleDays": 11.5,
+    "packages": 25651,
+    "positions": 25213,
+    "updatedAt": "2026-11-07T15:19:17+00:00"
+  },
+  "read": 301,
+  "requests": 309,
+  "stateAt": "2026-11-07T15:14:51+00:00"
+}
